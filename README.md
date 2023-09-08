@@ -6,3 +6,5 @@ Spring Boot 2.6.2 <br>
 MariaDB <br>
 Gradle <br>
 Spock <br>
+Docker <br>
+Redis <br>
